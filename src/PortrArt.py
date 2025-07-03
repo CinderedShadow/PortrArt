@@ -11,12 +11,7 @@ Credits:
 External Casacades - https://github.com/sightmachine
 PIL Library Documentation - https://pillow.readthedocs.io/en/stable/
 OS Library Documentation - https://docs.python.org/3/library/os.html
-CircleCurvyLines.png - Made it myself
-OvalCurvyLines.png - Made it myself
-TriangleCurvyLines.png - Made it Myself
-Color_Picker.png - ChatGPT
-Flood Fill DFS Stacks Logic - https://www.youtube.com/watch?v=Sbciimd09h4&ab_channel=howCode
-                            - Refining help from ChatGPT
+
 Example1.jpeg - https://www.domestika.org/en/blog/6923-10-free-websites-for-portrait-reference-photos
 Example2.jpeg - https://newravenna.fandom.com/wiki/Patricia_Toarina
 Example3.jpeg - https://in.pinterest.com/pin/602637993883827696/ 
